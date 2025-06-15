@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body{
+    
+     background-image:url(./photos/train.jpg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    /*background:blanchedalmond url(./photos/train.jpg)  no-repeat fixed 
+    center / cover;*/
+
+}
